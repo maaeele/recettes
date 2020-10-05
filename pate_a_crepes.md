@@ -29,3 +29,5 @@ Laissez reposer la pâte à crêpes simple et rapide à faire pendant 1 heure au
 
 7.
 Versez une louche de pâte dans la poêle, et laissez cuire 3 min chaque crêpe.
+
+![Photo Crêpes](pates_a_crepes_minces.jpg)
